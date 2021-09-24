@@ -1,9 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, Soy Victor Casas</h1>
+<h3 align="center">Estudiante de primer ciclo de UTEC</h3>
 
-<!--
-**vextor7w7/vextor7w7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _special_ ✨
+<h3 align="izquierda">CODIGOS QUE MANEJO</h3>
 
-Here are some ideas to get you started:
+- c++
+- python
+
+<h2 align="izquierda">Cosas extras sobre mi:</h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
