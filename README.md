@@ -15,3 +15,4 @@
 - 😄 coleguio : PROLOG
 - ⚡ Univercidad : UTEC
 - XD🐱‍👤
+- ![dedos-vueltas](https://user-images.githubusercontent.com/91268942/134777039-35e82b9c-3e67-4e2c-9af0-0502954d3c43.gif)
