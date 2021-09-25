@@ -14,4 +14,4 @@
 - 📫 puedes contactarme como: victor.casas@utec.edu.pe
 - 😄 coleguio : PROLOG
 - ⚡ Univercidad : UTEC
-xd
+- XD
